@@ -1,2 +1,2 @@
 # SET-Menu-App
-Menu App to implement SET Data Type
+Group project of a Menu App to implement SET Data Type
